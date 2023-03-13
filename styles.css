@@ -1,0 +1,67 @@
+body {
+    color: whitesmoke;
+    background: #031926;;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 60px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.introduciton-txt {
+    background-color: #1E1F1F;
+    margin-left: 0px;
+    margin-right: 0px;   
+    padding: 20px;
+}
+
+.war-jpg {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.socialmedia-href {
+    background-color: #1E1F1F;
+    height: 250px; 
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;   
+}
+
+.bsns-card {
+    background: white;
+    font-style: normal;
+    
+}
+
+.business-card {      
+ text-align: left;
+ padding: 20px;
+ display: flex;
+ justify-content: space-around;
+ width: 600px;
+ margin: 0px auto;
+ background-color: #031926;
+ border-bottom: 15px solid #1E1F1F;
+ 
+}
+
+
+
+.pfp {
+    width: 250px;
+    display: inline;
+    margin: 0px auto;
+}
+
+.introduction {
+    color: whitesmoke;
+    margin-left: 50px;
+}
+
+.text-align {
+    text-align: center;
+}
